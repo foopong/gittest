@@ -1,1 +1,1 @@
-print('main meu')
+print('1meu')
